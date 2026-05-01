@@ -68,7 +68,7 @@ function App() {
 
       <section className="hero" id="home">
         <div className="hero-copy">
-          <p className="eyebrow">Test Test Software Engineer</p>
+          <p className="eyebrow">Software Engineer</p>
           <h2>Building reliable software with clean interfaces and thoughtful systems.</h2>
           <p className="hero-text">
             Hi, I'm Phi. I design and build modern web applications,
