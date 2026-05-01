@@ -6,7 +6,7 @@ const projects = [
     description:
       "Used a used car dataset from Kaggle.com and enable users to input car features and receive a estimated price.",
     image:
-      "./images/Used Car Price Predictor Image.png",
+      "/images/used-car-price-predictor.png",
     link: "https://used-car-price-predictor-1-pis0.onrender.com/",
     tags: ["Python", "ML", "CSV files"],
   },
@@ -15,7 +15,7 @@ const projects = [
     description:
       "This website contain all the games I've made.",
     image:
-      "./images/Game Dev Portfolio Website Image.png",
+      "/images/game-dev-portfolio.png",
     link: "https://rushymc.github.io/Game-Dev-Portfolio/index.html",
     tags: ["HTML", "CSS", "JavaScript", "Unity", "Godot"],
   },
