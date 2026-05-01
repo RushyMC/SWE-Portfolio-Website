@@ -1,12 +1,13 @@
 import React from "react";
+import gameDevPortfolioImage from "./images/game-dev-portfolio.png";
+import usedCarPricePredictorImage from "./images/used-car-price-predictor.png";
 
 const projects = [
   {
     title: "Used Car Price Predictor",
     description:
       "Used a used car dataset from Kaggle.com and enable users to input car features and receive a estimated price.",
-    image:
-      "/images/used-car-price-predictor.png",
+    image: usedCarPricePredictorImage,
     link: "https://used-car-price-predictor-1-pis0.onrender.com/",
     tags: ["Python", "ML", "CSV files"],
   },
@@ -14,8 +15,7 @@ const projects = [
     title: "Game Dev Portfolio Website",
     description:
       "This website contain all the games I've made.",
-    image:
-      "/images/game-dev-portfolio.png",
+    image: gameDevPortfolioImage,
     link: "https://rushymc.github.io/Game-Dev-Portfolio/index.html",
     tags: ["HTML", "CSS", "JavaScript", "Unity", "Godot"],
   },
