@@ -62,7 +62,7 @@ function App() {
           <a href="#skills">Skills</a>
           <a href="#contact">Contact</a>
           <a href="https://github.com/RushyMC" target="_blank">Github</a>
-          <a href="https://leetcode.com/u/rushymctits/" target="_blank">Leetcode Profile</a>
+          <a href="https://leetcode.com/u/rushymc/" target="_blank">Leetcode Profile</a>
         </div>
       </nav>
 
